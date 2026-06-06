@@ -124,7 +124,7 @@ Restart Delay	10 sec
 
 
 
-<img width="1037" height="562" alt="image" src="https://github.com/user-attachments/assets/00ca11bd-7134-4e25-9a6b-fafb01b6797f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3896d48-269b-4548-b81b-8f05036b86c8" />
 
 
 
